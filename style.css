@@ -1,0 +1,25 @@
+.header-section{
+    background-color: antiquewhite;
+}
+
+.img-border{
+    border-radius: 1em;
+    background-color:beige;
+    transform:scale(.95);
+    height: 250px;
+    width: 100%;
+}
+
+.card-border{
+    border:0;
+}
+
+.shoe-card-footer{
+    background-color: white;
+    border: 0;
+}
+
+.text-decora{
+    text-decoration: none;
+    color: black;
+}
